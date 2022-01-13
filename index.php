@@ -10,5 +10,4 @@ include 'header.php';
 include 'views/home.php';
 
 # Rodapé
-include 'header.php';
-
+include 'footer.php';

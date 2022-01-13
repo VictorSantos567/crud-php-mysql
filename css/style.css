@@ -1,0 +1,14 @@
+/**/
+
+*{ margin: 0; padding: 0; }
+
+body{ font-family: heveltica,arial; font-size: 16px; color: #333;}
+header{ height: 120px; background-color: #F0F8FF; padding: 10px 0;}
+footer{ height: 50px; background-color: #F8F8FF;padding: 10px 0;}
+
+/* Class */
+.container{
+    margin: 0 auto; width: 960px;
+}
+
+#conteudo { padding: 30px 0;}
