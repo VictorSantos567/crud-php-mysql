@@ -1,0 +1,35 @@
+/**/
+
+*{ margin: 0; padding: 0; }
+
+body{ 
+    font-family: arial; font-size: 16px; color: #333;
+}
+
+header{ 
+    height: 80px; background-color: #F0F8FF; padding: 10px 0;
+}
+
+footer{ 
+    height: 50px; background-color: #F8F8FF; padding: 10px 0;text-align: center; font-size: 13px; color: #333;
+}
+
+/* Class */
+.container{
+    margin: 0 auto; width: 960px;
+}
+/* Class da imagem*/
+.container img {
+    max-width:80px;
+    max-height:100px;
+    width: auto;
+    height: auto;
+}
+
+/* id */
+#conteudo { padding: 50px 0;}
+#menu {float: right; padding: 30px 0;}
+#menu a {text-decoration: none; font-size: 20px; padding: 40px 40px; color:#333; text-shadow: whitesmoke;}
+#menu a:hover{
+    background-color: antiquewhite;
+}

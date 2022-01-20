@@ -2,5 +2,6 @@
 
 <footer>
     <div class="container">
-        Rodapé
+        ©2022 Cursos Exatas - Todos os direitos reservados
+    </div>
 </footer>
